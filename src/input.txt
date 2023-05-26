@@ -1,0 +1,4 @@
+Moskvich412,1970,250000,blue
+LadaNiva,1985,150000,green
+FordMustang,2005,100000,red
+ToyotaCorolla,2010,80000,silver

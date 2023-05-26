@@ -1,0 +1,6 @@
+Moskvich412,1970,250000.0,blue
+Zaz968,1975,400000.0,white
+Kamaz5320,1985,120000.0,green
+LadaNiva,1985,150000.0,green
+FordMustang,2005,100000.0,red
+ToyotaCorolla,2010,80000.0,silver
